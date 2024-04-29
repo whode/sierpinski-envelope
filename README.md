@@ -1,5 +1,5 @@
 # Sierpinski envelope fractal
-This is a program written in python that draws a fractal that I've named "Sierpinski envelope" because of the way it is formed at a basic level. However, by playing around with the parameters, you can find several different fractals that are closely related and transition into each other.
+This is a program written in python that uses the "chaos game" method and draws a fractal, which I've named "Sierpinski envelope" because of the way it is formed at a basic level. However, by playing around with the parameters, you can find several different fractals that are closely related and transition into each other.
 ## Running the script
 You will need python 3 installed to run the program. If you have it, go to the repository folder and run the dependency installation with this command:
 
