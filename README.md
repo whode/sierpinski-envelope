@@ -14,7 +14,7 @@ The program allows you to specify 4 parameters on which the image depends:
 |-------|-----------|
 |--draw_count| Specifies the number of points to be drawn per loop. Defaults to 1000.
 |--update_count| Specifies the number of drawing loops per one program loop. Defaults to 1.
-|--draw_color| Sets the color of the drawing points in hex format. Defaults to #ffffffff (white).
+|--draw_color| Sets the color of the drawing points in hex format. Defaults to #ffffff (white).
 |--background_color| Sets the background color in hex format. Defaults to #000000 (black).
 
 Both ```--draw_count``` and ```--update_count``` affect the drawing speed in one way or another, but also implicitly affect another parameter that determines which fractal will be drawn.
